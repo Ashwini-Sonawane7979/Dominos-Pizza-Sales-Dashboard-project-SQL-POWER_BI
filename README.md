@@ -2,8 +2,13 @@
 
 
 Domino's Pizza Sales Project (SQL & Power BI)
+
 Overview
-The Domino's Pizza Sales Project is a comprehensive data analysis and visualization initiative aimed at examining and interpreting sales data from a fictional pizza restaurant chain. This project leverages SQL for data extraction and transformation and Power BI for creating interactive dashboards and reports. The primary objective is to derive actionable insights to optimize operations, boost sales, and enhance customer satisfaction.
+
+The Domino's Pizza Sales Project is a comprehensive data analysis and visualization initiative 
+aimed at examining and interpreting sales data from a fictional pizza restaurant chain.
+This project leverages SQL for data extraction and transformation and Power BI for creating interactive dashboards and reports. 
+The primary objective is to derive actionable insights to optimize operations, boost sales, and enhance customer satisfaction.
 
 Project Components
 1. Data Acquisition
